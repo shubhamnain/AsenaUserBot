@@ -31,7 +31,7 @@
 ### Basit Yöntem
 Eğer botu kurma hakkında fikriniz yoksa burayı okuyunuz: [Kurulum Rehberi](https://github.com/Quiec/AsenaUserBot/wiki/Kurulum/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shubhamnain/AsenaUserBot)
 ### Zor Yöntem
 ```python
 git clone https://github.com/Quiec/AsenaUserBot.git
@@ -66,15 +66,4 @@ Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/Asen
 
 ```
     Userbottan dolayı; Telegram hesabınız yasaklanabilir.
-    Bu bir açık kaynaklı projedir, yaptığınız her işlemden kendiniz sorumlusunuz. Kesinlikle Asena yöneticileri sorumluluk kabul etmemektedir.
-    Asenayı kurarak bu sorumlulukları kabul etmiş sayılırsınız.
-```
-
-## Credit
-Thanks for;
-
-[Seden UserBot](https://github.com/TeamDerUntergang/Telegram-UserBot)
-
-[Userge](https://github.com/UsergeTeam/Userge)
-
-[Spechide](https://github.com/Spechide)
+    Bu bir açık kaynaklı projedir, yaptığınız her işlemden kendiniz sorumlusunuz. Kesinlikle Asena yöneticileri sorumluluk kabul et
